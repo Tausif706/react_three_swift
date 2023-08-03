@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-three/fiber": "^8.12.1",
+    "gltf": "^1.0.3"
+  }
+}
